@@ -1,5 +1,5 @@
 <?php
-$conn=mysqli_connect("den1.mysql4.gear.host","mobileshop1","Lj7C9z_12~z7","mobileshop1");
+$conn=mysqli_connect("den1.mysql4.gear.host","mobileshop","Lj7C9z_12~z7","mobileshop1");
 // Check connection
 if ($conn->connect_error)
   {
